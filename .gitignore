@@ -1,0 +1,11 @@
+**/.DS_Store
+**/node_modules
+**/dist
+**/.env
+**/.env.local
+**/.idea
+**/.vscode
+**/*.log
+backend/bin
+backend/tmp
+db/data
